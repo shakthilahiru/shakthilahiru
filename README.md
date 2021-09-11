@@ -4,8 +4,8 @@
 
 ![Top Langs](https://stat-rvdrover.vercel.app/api/top-langs/?username=shakthilahiru&layout=compact&theme=tokyonight)
 
-
 ![willianrod's wakatime stats](https://stat-rvdrover.vercel.app/api/wakatime/?username=shakthilahiru&layout=compact&theme=tokyonight)
+
 <!--
 **shakthilahiru/shakthilahiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
