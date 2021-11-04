@@ -36,7 +36,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 <a href="https://github.com/shakthilahiru/shakthilahiru">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakthilahiru&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
- ![Ravidus GitHub stats](https://stat-rvdrover.vercel.app/api?username=shakthilahiru&count_private=true&show_icons=true&theme=tokyonight)
+ 
+(https://stat-rvdrover.vercel.app/api?username=shakthilahiru&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://stat-rvdrover.vercel.app/api/top-langs/?username=shakthilahiru&layout=compact&theme=tokyonight)
 
@@ -45,6 +46,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <a href="https://wakatime.com/@2b48b7c3-6e20-4952-ad0c-e5df5837c765"><img src="https://wakatime.com/badge/user/2b48b7c3-6e20-4952-ad0c-e5df5837c765.svg" alt="Total time coded since Aug 16 2021" /></a>
 </a>
+
 <!--
 <a href="https://github.com/shakthilahiru/Dream-Wedding-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shakthilahiru&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -71,9 +73,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/
+[2]: https://github.com/shakthilahiru
+[3]: https://www.linkedin.com/in/
 
 
 <!-- Resources -->
